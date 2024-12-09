@@ -9,6 +9,7 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
+st.title("Multiple Disease Prediction Web App by Shivsham Bhagwat")
 
 # loading the saved models
 
